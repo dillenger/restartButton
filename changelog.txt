@@ -1,0 +1,21 @@
+Changelog for Restart Button
+
+1.5
+Set maximum version to Thunderbird 102.*.
+
+1.4
+Removed tooltip from restartButtonApi.
+Set minimum version to Thunderbird 91.
+
+1.3
+Set max version.
+
+1.2
+Added MailUtils (for Thunderbird 91).
+
+1.1
+Switched to BrowserUtils.
+Added tooltip.
+
+1.0
+First release.
