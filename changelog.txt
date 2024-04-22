@@ -1,5 +1,9 @@
 Changelog for Restart Button
 
+1.6
+Added the button to all toolbars.
+Set maximum version to Thunderbird 127.*.
+
 1.5
 Set maximum version to Thunderbird 102.*.
 
