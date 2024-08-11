@@ -1,6 +1,5 @@
-var { ExtensionCommon } = ChromeUtils.import("resource://gre/modules/ExtensionCommon.jsm");
-var Services = globalThis.Services || ChromeUtils.import("resource://gre/modules/Services.jsm");
-var { MailUtils } = ChromeUtils.import("resource:///modules/MailUtils.jsm");
+var { ExtensionCommon } = ChromeUtils.importESModule("resource://gre/modules/ExtensionCommon.sys.mjs");
+var { MailUtils } = ChromeUtils.importESModule("resource:///modules/MailUtils.sys.mjs");
 
 var restartButtonApi = class extends ExtensionCommon.ExtensionAPI {
   getAPI(context) {

@@ -1,5 +1,8 @@
 Changelog for Restart Button
 
+1.7
+ESMified the add-on.
+
 1.6
 Added the button to all toolbars.
 Set maximum version to Thunderbird 127.*.
